@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MSanchez-z1415
 - 👀 I’m interested in Science (almost all fields)
-- 🌱 I’m currently learning Java
 - 📫 How to reach me: msanchez@up.edu.ph
 
 <!---
